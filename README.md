@@ -27,21 +27,13 @@ Este proyecto incluye el texto completo del **Pentateuco** (Génesis, Éxodo, Le
 }
 ```
 
-## 📝 Aplicaciones posibles
-
-- Análisis textual del hebreo bíblico
-- Estudios de frecuencia de palabras
-- Herramientas de estudio bíblico
-- Proyectos de aprendizaje de hebreo
-- Investigación académica
-
 ## 📄 Licencia
 
 Los textos están en **Dominio Público**. El código de procesamiento es de uso libre.
 
 ## 🙏 Agradecimientos
 
-Texto obtenido de [Tanach.us](http://www.tanach.us/Tanach.xml).
+Texto obtenido de [Sefaria](https://www.sefaria.org).
 
 ---
 
